@@ -1,0 +1,71 @@
+/* github */
+@font-face {
+    font-family: "iconfont"; /* Project id 2854342 */
+    src: url('//at.alicdn.com/t/font_2854342_b0q2wy3zd9a.woff2?t=1633700932159') format('woff2'),
+         url('//at.alicdn.com/t/font_2854342_b0q2wy3zd9a.woff?t=1633700932159') format('woff'),
+         url('//at.alicdn.com/t/font_2854342_b0q2wy3zd9a.ttf?t=1633700932159') format('truetype');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-github:before {
+    content: "\e620";
+    font-size: 22px;
+    color: black;
+  }
+  
+
+
+/* Mail */
+@font-face {
+    font-family: "iconfont"; /* Project id 2854355 */
+    src: url('//at.alicdn.com/t/font_2854355_169ltbkb3wr.woff2?t=1633701348889') format('woff2'),
+         url('//at.alicdn.com/t/font_2854355_169ltbkb3wr.woff?t=1633701348889') format('woff'),
+         url('//at.alicdn.com/t/font_2854355_169ltbkb3wr.ttf?t=1633701348889') format('truetype');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-mail:before {
+    content: "\e614";
+    font-size: 22px;
+    color: dodgerblue;
+  }
+  
+
+/* 网易云音乐 */
+
+@font-face {
+    font-family: "iconfont"; /* Project id 2854384 */
+    src: url('//at.alicdn.com/t/font_2854384_9at1ssy9js.woff2?t=1633702397221') format('woff2'),
+         url('//at.alicdn.com/t/font_2854384_9at1ssy9js.woff?t=1633702397221') format('woff'),
+         url('//at.alicdn.com/t/font_2854384_9at1ssy9js.ttf?t=1633702397221') format('truetype');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-wangyiyunyinle:before {
+    content: "\e600";
+    font-size: 22px;
+    color: red;
+  }
+  
+  
